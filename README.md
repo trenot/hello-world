@@ -2,10 +2,8 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>in the beginning</title>
   </head>
   <body>
-    # hello-world
 <h1>welcome</h1>
 <p>this is not my ideal tuesday night</p>
   </body>
