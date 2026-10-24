@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Stargazers log</title>
+    <title>in the beginning</title>
   </head>
   <body>
     # hello-world
